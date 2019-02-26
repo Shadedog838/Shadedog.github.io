@@ -1,0 +1,37 @@
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+    display:flex;
+    justify-content:space-around;
+    
+}
+#name:hover{
+    background-color:grey;
+    padding:10px;
+}
+#about:hover{
+    background-color:grey;
+    padding:10px;
+}
+#portfolio:hover{
+    background-color:grey;
+    padding:10px;
+}
+#contact:hover{
+    background-color:grey;
+    padding:10px;
+}
+
+body {
+  font-family:"Arial";background-color:dimgrey;
+  
+}
+
+a{
+    color:white;
+    text-decoration:none;
+}
+
+

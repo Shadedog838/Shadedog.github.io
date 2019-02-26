@@ -1,9 +1,40 @@
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+    display:flex;
+    justify-content:space-around;
+    
+}
+#name:hover{
+    background-color:grey;
+    padding:10px;
+}
+#about:hover{
+    background-color:grey;
+    padding:10px;
+}
+#portfolio:hover{
+    background-color:grey;
+    padding:10px;
+}
+#contact:hover{
+    background-color:grey;
+    padding:10px;
+}
+a{
+  text-decoration: none;
+}
+
+
 body {
   font-family:"Arial";background-color:dimgrey;
   
 }
 p {
-  color:lightgrey;text-decoration:underline;text-align:left;
+  color:lightgrey;
+  
 }
 
 
