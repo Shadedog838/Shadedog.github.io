@@ -1,11 +1,11 @@
-.row{   
+.row{
 
     background-color:black;
     color:white;
     font-size:20px;
     display:flex;
     justify-content:space-around;
-    
+
 }
 #name:hover{
     background-color:grey;
@@ -26,7 +26,7 @@
 
 .headshot{
     width:20%;
-   
+
 }
 .mid{
     background-color:white;
@@ -37,20 +37,20 @@
     margin-bottom:5px;
 }
 .aboutme{
-    border:1px solid black;   
+    border:1px solid black;
     min-height: 700px;
     min-width: 1050px;
     animation-name: example;
     animation-duration: 10s;
-    background-image:url("http://getwallpapers.com/wallpaper/full/a/1/e/898705-gorgerous-nice-pictures-for-background-1920x1200-1080p.jpg");
+    background-image:url("Manhattan.jpg");
 }
 
 @keyframes example {
-  25%   {background-image:url("http://getwallpapers.com/wallpaper/full/a/1/e/898705-gorgerous-nice-pictures-for-background-1920x1200-1080p.jpg");}
-    50%  {background-image:url("https://cn.pling.com/img/5/7/2/d/8bc8ce2fb80ebe65aa3aac9f38e4950483d4.jpg");}
-     75%  {background-image:url("https://img.memecdn.com/a-nice-image-of-a-sunset_o_6847379.jpg");}
-     100%  {background-image:url("https://img00.deviantart.net/bac3/i/2013/309/a/3/manhattan_night_by_vanessaxgisel-d6t5zhp.jpg");}
-   
+  25%   {background-image:url("Manhattan.jpg");}
+    50%  {background-image:url("MCCbanner.jpg");}
+     75%  {background-image:url("ManSquare.jpg");}
+     100%  {background-image:url("sunset.jpg");}
+
 }
 a{
     color:white;
