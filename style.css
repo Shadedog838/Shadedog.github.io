@@ -43,8 +43,6 @@
     animation-name: example;
     animation-duration: 10s;
     background-image:url("Manhattan.jpg");
-    background: no-repeat;
-    margin: 0 auto;
 }
 
 @keyframes example {
